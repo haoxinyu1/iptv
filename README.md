@@ -32,7 +32,7 @@ permalink: /
 
 ## 📺 自动扫描直播源 IPTV6：
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-01-07 06:29:32<!-- END_UPDATE_TIME_IPTV6 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-01-08 06:30:17<!-- END_UPDATE_TIME_IPTV6 -->
 
 *有ipv6环境的强烈推荐这个列表，高速稳定*
 
@@ -74,7 +74,7 @@ https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6
 
 ## 📺 自动扫描直播源 IPTV4：
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-01-07 06:29:32<!-- END_UPDATE_TIME_IPTV4 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-01-08 06:30:17<!-- END_UPDATE_TIME_IPTV4 -->
 
 <table>
   <colgroup>
@@ -128,6 +128,14 @@ https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4
 
   
 
+## 增加台标：
+
+- https://live.zbds.top/logo/频道名.png
+
+  示例： [https://live.zbds.top/logo/CCTV1.png](https://live.zbds.top/logo/CCTV1.png)
+
+
+
 ## 如果你不愿意折腾，这里有折腾好的直播点播软件
 
 下载链接： [https://www.zbds.top](https://zbds.top/aztv)  （包含港澳台）
@@ -150,6 +158,7 @@ https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4
 
 ## 📔 更新
 
+- 2025.1.7 增加台标
 - 2024.12.13 跟着节奏继续优化
 - 2024.10.18 优化测试有效源代码
 - 2024.9.9 直播源失效速度太快，新添加deibian服务器，每日三次更新
