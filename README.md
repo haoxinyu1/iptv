@@ -2,11 +2,9 @@
 layout: default
 title: 最新IPTV直播源|每日更新|免费电视直播源|Github开源项目
 description: 最新免费开源的IPTV电视直播源，支持IPv4/IPv6双栈访问，每6小时自动更新，永久免费。收录国内、海外、港澳台等上千个iptv电视直播频道。
-keywords: IPTV,直播源,直播电视,电视直播,CCTV,卫视,IPv6直播源,免费直播源,m3u8直播源,港澳台,海外,国内
+keywords: IPTV,直播源,直播电视,电视直播,CCTV,卫视,IPv6直播源,免费直播源,m3u8直播源,港澳台,海外,国内,直播电视app,live.zbds.top
 permalink: /
 ---
-
-
 
 <h1 align="center">✯ 这是一个国内可直连的直播电视源分享项目 ✯</h1>
 
@@ -24,17 +22,19 @@ permalink: /
 
 ---
 
-如不愿折腾，可以直接下载 直播电视app 使用，手机电视都兼容，没有任何广告，完全免费。
+> 如不愿折腾，可以直接下载 直播电视app 使用，手机电视都兼容，没有任何广告，完全免费。
+>
+> 直播电视app 下载地址：[https://www.zbds.top](https://zbds.top/aztv)  （包含港澳台频道）
+>
+> 软件内包含本仓库所有直播源，还有很多其他直播源，并且每日更新。
 
-直播电视app 下载地址：[https://www.zbds.top](https://zbds.top/aztv)  （包含港澳台频道）
-
-如果显示链接失败，请下载[特别版](https://zbds.lanzoui.com/b0b2kul6b)试试（2024.10.27更新）直播源每6小时更新一次
+------
 
 
 
 ### 📡 自动扫描直播源 IPTV6
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-01-12 06:38:59<!-- END_UPDATE_TIME_IPTV6 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-01-13 06:39:54<!-- END_UPDATE_TIME_IPTV6 -->
 
 *有ipv6环境的强烈推荐这个列表，高速稳定*
 
@@ -77,7 +77,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 ### 📡 自动扫描直播源 IPTV4
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-01-12 06:38:59<!-- END_UPDATE_TIME_IPTV4 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-01-13 06:39:54<!-- END_UPDATE_TIME_IPTV4 -->
 
 <table>
   <colgroup>
@@ -149,8 +149,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 
 ### 📱 直播电视
-
-如果你不愿意折腾，这里有折腾好的直接观看的直播电视软件
+如果你不愿意折腾，这里有折腾好的可直接使用的直播电视软件
 
 - 稳定版
 
@@ -165,7 +164,6 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 ### 📝 说明
 
 - 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
-- 部分广播节目播出具有一定的时效性，需要在指定时段进行收听。
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 您可以 Fork 本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
 - 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
