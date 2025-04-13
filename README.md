@@ -33,7 +33,7 @@ permalink: /
 
 ### 📡 自动扫描直播源 IPTV4
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-04-12 06:57:32<!-- END_UPDATE_TIME_IPTV4 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-04-13 06:57:58<!-- END_UPDATE_TIME_IPTV4 -->
 
 <table>
   <colgroup>
@@ -72,7 +72,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 ### 📡 自动扫描直播源 IPTV6
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-04-12 06:57:32<!-- END_UPDATE_TIME_IPTV6 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-04-13 06:57:58<!-- END_UPDATE_TIME_IPTV6 -->
 
 *有ipv6环境的强烈推荐这个列表，高速稳定*
 
@@ -165,11 +165,9 @@ https://epg.zbds.top/t.xml.gz
 
 - 下载链接： [https://izbds.com](https://izbds.com/aztv)  （包含港澳台）
 
-
-
 优化版
 
-- 如果显示链接失败，请下载[优化版](https://img-cloud.zbds.top/zbds/zbds-yhb-ali20250303.apk)试试（2025.2.5）
+- 如果显示链接失败，请下载[最新版](https://izbds.com/aztv)试试（2025.2.5）
 
 
 
