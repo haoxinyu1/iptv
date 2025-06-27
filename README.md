@@ -33,7 +33,7 @@ permalink: /
 
 ### 📡 自动扫描直播源 IPTV4
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-06-26 06:36:28<!-- END_UPDATE_TIME_IPTV4 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-06-27 06:38:08<!-- END_UPDATE_TIME_IPTV4 -->
 
 <table>
   <colgroup>
@@ -72,7 +72,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 ### 📡 自动扫描直播源 IPTV6
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-06-26 06:36:28<!-- END_UPDATE_TIME_IPTV6 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-06-27 06:38:08<!-- END_UPDATE_TIME_IPTV6 -->
 
 *有ipv6环境的强烈推荐这个列表，高速稳定*
 
@@ -187,4 +187,8 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 ### 📊 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=vbskycn/iptv&type=Date)](https://star-history.com/#vbskycn/iptv&Date)
+
+[本项目的CDN加速和安全防护由腾讯EdgeOne赞助](https://edgeone.ai/zh?from=github)
+
+![](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)
 
